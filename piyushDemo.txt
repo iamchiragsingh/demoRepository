@@ -3,7 +3,8 @@ This is my demo file
 TODO List
 1 DSA
 2 Peojects
-3 Code on HackerRank
+3 Code on HackerRank and LeetCode
+4 Learn GitHub
 
 
 I will be using this file for the github 
